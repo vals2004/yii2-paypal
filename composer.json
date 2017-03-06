@@ -1,5 +1,5 @@
 {
-    "name": "marciocamello/yii2-paypal",
+    "name": "vals2004/yii2-paypal",
     "description": "The PayPal extension for the Yii2 framework",
     "keywords": ["yii2", "paypal"],
     "type": "yii2-extension",
